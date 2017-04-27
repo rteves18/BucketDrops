@@ -6,4 +6,6 @@
     <color name="yellow">#F0A729</color>
     <color name="orange">#DB7D18</color>
     <color name="dark_orange">#9C5B06</color>
+    <color name="bg_drop_row_dark">#AD7418</color>
+    <color name="bg_row_drop_light">#EBA22D</color>
 </resources>
